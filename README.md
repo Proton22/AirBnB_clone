@@ -59,6 +59,9 @@ EOF  all  count  create  destroy  help  quit  show  update
 ## Test
 
 All the code is tested with the unittest module. The test for the classes are in the`test_models folder`.
-## Authors
-Victor Chinyereugo - https://github.com/Proton22
-Womi Willie Otu - https://github.com/otuwomi
+
+ ## Authors
+
+ Victor Chinyereugo - https://github.com/Proton22
+
+ Womi Willie Otu - https://github.com/otuwomi
